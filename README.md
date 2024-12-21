@@ -1,4 +1,4 @@
 # apnacollege-demo
 This is my first commit in this repository
-<br>/
+<br>
 author - Syed Shareef
